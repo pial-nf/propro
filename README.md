@@ -8,6 +8,7 @@
 - **New Modules**
 - **Easy to setup now**
 
+![image](https://github.com/user-attachments/assets/0bab8f38-aaa0-4f11-ba3d-7459010d3606)
 
 
 ## How to Use

@@ -25,8 +25,8 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/RayDev07/Advanced-AIO-Bot.git
-   cd Advanced-AIO-Bot
+   git clone https://github.com/RayDev07/AIO-V2.git
+   cd AIO-V2
    ```
 
 3. **Install dependencies:**
@@ -58,13 +58,13 @@
 
 ## Links
 
-- **GitHub Repository**: [https://github.com/RayDev07/Advanced-AIO-Bot](https://github.com/RayDev07/Advanced-AIO-Bot)
-- **Issues**: [https://github.com/RayDev07/Advanced-AIO-Bot/issues](https://github.com/RayDev07/Advanced-AIO-Bot/issues)
+- **GitHub Repository**: [https://github.com/RayDev07/AIO-V2](https://github.com/RayDev07/AIO-V2)
+- **Issues**: [https://github.com/RayDev07/AIO-V2/issues](https://github.com/RayDev07/AIO-V2/issues)
 - **Discord Documentation**: [https://dsc.gg/codexdev](https://dsc.gg/codexdev)
 
 ## Support
 
 If you encounter any issues or have any questions, please feel free to open an issue on GitHub or join our support server on Discord.
 
-- **GitHub Issues**: [https://github.com/RayDev07/Advanced-AIO-Bot/issues](https://github.com/RayDev07/Advanced-AIO-Bot/issues)
+- **GitHub Issues**: [https://github.com/RayDev07/AIO-V2/issues](https://github.com/RayDev07/AIO-V2/issues)
 - **Discord Support Server**: [https://dsc.gg/codexdev](https://dsc.gg/codexdev)
